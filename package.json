@@ -18,6 +18,7 @@
   "author": "Pedro Tacla Yamada",
   "license": "MIT",
   "dependencies": {
+    "async": "^2.0.0-rc.3",
     "commander": "^2.9.0",
     "function-rate-limit": "^1.0.1",
     "github": "^0.2.4",
